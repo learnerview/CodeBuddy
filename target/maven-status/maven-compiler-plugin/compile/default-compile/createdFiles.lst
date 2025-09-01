@@ -1,0 +1,14 @@
+org\codebuddy\core\dao\DatabaseManager.class
+org\codebuddy\gui\EditProblemDialog.class
+org\codebuddy\gui\AddProblemDialog.class
+org\codebuddy\core\dao\ProblemDao.class
+org\codebuddy\core\models\Platform.class
+org\codebuddy\gui\AddProblemDialog$1.class
+org\codebuddy\core\models\Difficulty.class
+org\codebuddy\gui\SwingMainWindow.class
+org\codebuddy\gui\SwingMainWindow$1.class
+org\codebuddy\Main.class
+org\codebuddy\core\services\AnalyticsService.class
+org\codebuddy\gui\AnalyticsDialog.class
+org\codebuddy\gui\SwingApp.class
+org\codebuddy\core\models\Problem.class

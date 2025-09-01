@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="79be7af8-e83a-4315-82c2-4d5016c3c68a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="303ZssaN8c00j29XEPN1iCRkQxP" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ProblemDaoTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ProblemDaoTest.testSaveAndRetrieveProblem.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/CodeBuddy&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.codebuddy.core.dao" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" activateToolWindowBeforeRun="false" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.codebuddy.Main" />
+      <module name="competitive-practice-tracker" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProblemDaoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="competitive-practice-tracker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.codebuddy.core.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.codebuddy.core.dao" />
+      <option name="MAIN_CLASS_NAME" value="org.codebuddy.core.dao.ProblemDaoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProblemDaoTest.testSaveAndRetrieveProblem" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="competitive-practice-tracker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.codebuddy.core.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk-21" />
+      <option name="PACKAGE_NAME" value="org.codebuddy.core.dao" />
+      <option name="MAIN_CLASS_NAME" value="org.codebuddy.core.dao.ProblemDaoTest" />
+      <option name="METHOD_NAME" value="testSaveAndRetrieveProblem" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.ProblemDaoTest" />
+      <item itemvalue="JUnit.ProblemDaoTest.testSaveAndRetrieveProblem" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ProblemDaoTest.testSaveAndRetrieveProblem" />
+        <item itemvalue="JUnit.ProblemDaoTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26927.53" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.26927.53" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79be7af8-e83a-4315-82c2-4d5016c3c68a" name="Changes" comment="" />
+      <created>1752858429183</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752858429183</updated>
+      <workItem from="1752858430368" duration="3391000" />
+      <workItem from="1752861842627" duration="2551000" />
+      <workItem from="1752913038793" duration="2061000" />
+      <workItem from="1752918080915" duration="838000" />
+      <workItem from="1752919423428" duration="77000" />
+      <workItem from="1752919508136" duration="7000" />
+      <workItem from="1752919522865" duration="52000" />
+      <workItem from="1752919947618" duration="48000" />
+      <workItem from="1752920086771" duration="8692000" />
+      <workItem from="1752940913196" duration="94000" />
+      <workItem from="1752941097519" duration="5673000" />
+      <workItem from="1752949795734" duration="2460000" />
+      <workItem from="1753002380695" duration="5836000" />
+      <workItem from="1753010308848" duration="784000" />
+      <workItem from="1753011120159" duration="920000" />
+      <workItem from="1753013412159" duration="794000" />
+      <workItem from="1753016700749" duration="1280000" />
+      <workItem from="1753019461636" duration="42000" />
+      <workItem from="1753019649719" duration="54000" />
+      <workItem from="1753025872283" duration="76000" />
+      <workItem from="1753026029746" duration="156000" />
+      <workItem from="1753068349012" duration="827000" />
+      <workItem from="1753340668140" duration="146000" />
+      <workItem from="1754976983363" duration="531000" />
+      <workItem from="1755449497893" duration="968000" />
+      <workItem from="1755541037751" duration="203000" />
+      <workItem from="1756485206653" duration="193000" />
+      <workItem from="1756569127531" duration="63000" />
+      <workItem from="1756569260703" duration="18000" />
+      <workItem from="1756569294943" duration="178000" />
+      <workItem from="1756727190498" duration="616000" />
+      <workItem from="1756729627018" duration="46000" />
+      <workItem from="1756729702227" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/codebuddy/core/models/Difficulty.java</url>
+          <line>15</line>
+          <properties class="org.codebuddy.core.models.Difficulty" method="valueOf">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
